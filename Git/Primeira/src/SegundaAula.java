@@ -1,5 +1,3 @@
-package com;
-
 import java.util.Objects;
 
 public class SegundaAula {
